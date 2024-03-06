@@ -140,7 +140,7 @@ GEM
       parser (>= 2.4)
       smart_properties
     bigdecimal (3.1.6)
-    bindata (2.4.15)
+    bindata (2.5.0)
     binding_of_caller (1.0.0)
       debug_inspector (>= 0.0.1)
     blurhash (0.1.7)
@@ -224,8 +224,7 @@ GEM
     dotenv-rails (2.8.1)
       dotenv (= 2.8.1)
       railties (>= 3.2)
-    drb (2.2.0)
-      ruby2_keywords
+    drb (2.2.1)
     ed25519 (1.3.0)
     elasticsearch (7.13.3)
       elasticsearch-api (= 7.13.3)
@@ -335,7 +334,7 @@ GEM
     httplog (1.6.2)
       rack (>= 2.0)
       rainbow (>= 2.0.0)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     i18n-tasks (1.0.13)
       activesupport (>= 4.0.2)
@@ -356,7 +355,7 @@ GEM
     jmespath (1.6.2)
     json (2.7.1)
     json-canonicalization (1.0.0)
-    json-jwt (1.15.3)
+    json-jwt (1.15.3.1)
       activesupport (>= 4.2)
       aes_key_wrap
       bindata
@@ -434,7 +433,7 @@ GEM
     mime-types-data (3.2023.1205)
     mini_mime (1.1.5)
     mini_portile2 (2.8.5)
-    minitest (5.21.2)
+    minitest (5.22.2)
     msgpack (1.7.2)
     multi_json (1.15.0)
     multipart-post (2.3.0)
